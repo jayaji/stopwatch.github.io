@@ -1,12 +1,13 @@
 
 .box{
-  box-sizing: border-box;
+   box-sizing: border-box;
   border-radius: 10%;
-  background-color:brown;
-  box-shadow: inset 8px 20px 10px 20px rgba(200,200,200, 0.2),inset -8px -20px 10px 20px rgba(200, 200, 200, 0.1);
+  background-color:rgba(0,140,200, 0.8);
   width: 330px;
   height: 250px;
   padding: 15px;
+  margin-left: 40%;
+  margin-top: 10%;
 }
 .screen{
   box-sizing: border-box;
